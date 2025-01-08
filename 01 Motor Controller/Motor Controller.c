@@ -52,7 +52,7 @@ void main()
 		R1 = R2 = R3 = 1;
 		if(C2 == 0)
 		{
-			P2 = 0x00;			//number 0 - BOTH MOTORS OFF
+			P2 = 0x00;			//number 0 - BOTH MOTORSÂ OFF
 		}
 		
 	}
